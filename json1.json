@@ -1,0 +1,13 @@
+{
+  "status": "ERROR",
+  "error_code": "EMPTY_OR_NOISE_REVIEW",
+  "analysis_steps": {
+    "step_1_input_check": "Nội dung review không hợp lệ và Order ID sai định dạng."
+  },
+  "result": {
+    "sentiment": null,
+    "category": null,
+    "priority_level": "LOW",
+    "action_suggested": "Bỏ qua tự động hóa, chuyển bản ghi vào hàng đợi lỗi."
+  }
+}
